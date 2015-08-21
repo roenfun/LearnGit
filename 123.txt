@@ -2,6 +2,3 @@
 
 
 {"code":1,"msg":"success","data":[[{"id":1,"name":"我的账户","icon":"","type":30,"url":"","parentId":0,"filterBy":"","childs":[{"id":9,"name":"地址管理","icon":"","type":1,"url":"","parentId":1,"filterBy":""},{"id":3,"name":"修改密码","icon":"","type":32,"url":"","parentId":1,"filterBy":""}]},{"id":4,"name":"我的钱包","icon":"","type":40,"url":"","parentId":0,"filterBy":"delayLoad","childs":[{"id":5,"name":"唯品钱包","icon":"","type":4,"url":"","parentId":4,"filterBy":""},{"id":6,"name":"唯品币","icon":"","type":9,"url":"","parentId":4,"filterBy":""},{"id":7,"name":"积分","icon":"","type":3,"url":"","parentId":4,"filterBy":""}]},{"id":30,"name":"唯品客服","icon":"","type":5,"url":"","parentId":0,"filterBy":""}],[{"id":10,"name":"TEST-189","icon":"","type":55,"url":"","parentId":0,"filterBy":""}]]}
-
-
-rebase用法
