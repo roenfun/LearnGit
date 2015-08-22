@@ -3,3 +3,5 @@ rebaseÓÃ·¨
 rebase method 3
 add this line in master branch
 add this line in master branch
+
+add this line in develop branch
