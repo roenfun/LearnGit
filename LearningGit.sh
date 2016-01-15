@@ -40,3 +40,17 @@ git remote add origin https://github.com/roenfun/LearnGit.git
 #本地内容推送到远程仓库
 #-u 第一次推送分支时关联远程分支
 git push -u origin master #当前分支master推送到远程
+git push origin master #当前分支master推送到远程，需输入用户名和密码？？
+
+#创建分支
+#-b：创建并切换到其分支
+git checkout -b dev
+git branch #查看分支
+git checkout develop #切换分支
+
+#合并分支
+#当前为master，把develop分支合并过来
+git merge develop
+
+#删除分支
+git branch -d develop
