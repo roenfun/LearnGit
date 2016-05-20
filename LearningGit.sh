@@ -188,3 +188,10 @@ git rm --cached -r <目录名> 删除目录下的所有文件的缓存
 通过上面的命令把缓存删除后，commit后再push到服务器。
 其它的团队成员可以直接pull，过滤功能就能正常使用了。
 #git过滤/忽略/ignore文件和文件夹 end
+
+#查看某个文件的更改
+#首先切换到要查看的文件所在的目录：
+cd packages/apps/Mms/src/com/android/mms/ui/
+git log --pretty=oneline 文件名
+#拿到git提交后再用git show 提交号查看更改详情
+git show 356f6def9d3fb7f3b9032ff5aa4b9110d4cca87e
