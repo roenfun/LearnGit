@@ -6,3 +6,5 @@ add this line in master branch
 add this line in develop branch
 
 add this one to rebase
+modify this line at the same time, rebase
+同时修改了同一行，rebase
