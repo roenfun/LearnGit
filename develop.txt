@@ -1,7 +1,6 @@
 sdfsfsdf
-rebase�÷�
 rebase method 3
 add this line in master branch
 add this line in master branch
-
+新添加一行 我先来的
 add this line in develop branch
